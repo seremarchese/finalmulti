@@ -128,7 +128,9 @@ article{
 }
 
 #galeria{
-	padding-top: 1%;
+	padding: 2%;
+	margin-left: 2%;
+	margin-top: auto;
 }
 
  #galeria li{
@@ -141,10 +143,10 @@ article{
  }
 
 #contenedorgaleria{
-	width: 100%
+	width: 100%;
 	padding-right: 5%;
-	padding-left: 20%;
-	padding-top: 1%;
+	padding-left: 15%;
+	padding-top: 3.5%;
 	font-size: 9pt;
 }
 
@@ -276,12 +278,13 @@ a{
 
 #pdf{
 	margin-top: 25px;
-	margin-left: 100px;
+	margin-left: 10%;
 }
 
 #contenedortexto{
 	width: 60%;
 	margin-left: 5%;
+	margin-top: 1%;
 }
 
 #img{
